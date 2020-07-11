@@ -1,0 +1,29 @@
+export const AUTH_START = 'AUTH_START';
+export const AUTH_SUCCESS = 'AUTH_SUCCESS';
+export const AUTH_FAIL = 'AUTH_FAIL';
+export const AUTH_LOGOUT = 'AUTH_LOGOUT';
+
+export const SET_USER = 'SET_USER'
+export const LOADING_USER = 'LOADING_USER'
+
+export const IMAGE_UPLOAD_ERROR = 'IMAGE_UPLOAD_ERROR'
+
+export const SET_SCREAMS = 'SET_SCREAMS'
+export const LOADING_DATA = 'LOADING_DATA'
+export const LIKE_SCREAM = 'LIKE_SCREAM'
+export const UNLIKE_SCREAM = 'UNLIKE_SCREAM'
+export const DELETE_SCREAM = 'DELETE_SCREAM'
+
+export const POST_SCREAM = 'POST_SCREAM'
+export const SET_ERRORS = 'SET_ERRORS'
+export const CLEAR_ERRORS = 'CLEAR_ERRORS'
+
+export const LOADING_UI = 'LOADING_UI'
+export const LOADING_SCREAM = 'LOADING_SCREAM'
+export const STOP_LOADING = 'STOP_LOADING'
+export const SET_SCREAM = 'SET_SCREAM'
+
+export const SUBMIT_COMMENT = 'SUBMIT_COMMENT'
+export const START_SUBMITTING = 'START_SUBMITTING'
+
+export const MARK_NOTIFICATIONS_READ = 'MARK_NOTIFICATIONS_READ'
