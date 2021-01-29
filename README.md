@@ -3,7 +3,7 @@
 
 
 # App Details
- Linkop-client is the client side of the linkop application; A social media app where you can meet new friends, share posts, comment on posts, etc. It's developed with react and redux technologies and Material UI
+ Linkop-client is the client side of the linkop application; A social media app where you can meet new friends, share posts, comment on posts, etc. It's developed with react, redux technologies and Material UI
 
 The app will consist of:
 
