@@ -36,7 +36,7 @@ Material UI
 
 # Top-level directory layout
 
-    📦linkop-
+    📦linkop-client
         ┣📦image
             ┗ 📜no-img.js
         ┣📦src
